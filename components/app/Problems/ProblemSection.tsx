@@ -17,9 +17,9 @@ Even AI can’t fix that."
       <div className="flex flex-col md:flex-row gap-20">
         <FromLeft className="max-w-3xl mx-auto py-8 space-y-6 text-xl text-black font-medium flex-1">
           <p>AI can make your emails sound more polished.</p>
-          <p>But it can't make them sound like someone who cares.</p>
+          <p>But it can&apos;t make them sound like someone who cares.</p>
           <p>
-            And it definitely can't build trust, follow up with urgency, or
+            And it definitely can&apos;t build trust, follow up with urgency, or
             repair a damaged relationship.
           </p>
 
@@ -36,7 +36,7 @@ Even AI can’t fix that."
           </div>
 
           <p className="mt-8">
-            The problem isn't writing—it's responsiveness, tone, and
+            The problem isn&apos;t writing—it&apos;s responsiveness, tone, and
             follow-through.
           </p>
           <p>If your emails feel vague, late, or careless… trust dies. Fast.</p>

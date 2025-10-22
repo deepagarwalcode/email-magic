@@ -76,7 +76,7 @@ const TargetAudience = () => {
             defaultValue="item-1"
           >
             {targetAudienceData.map((item, index) => (
-              <AccordionItem className="py-2" value={`item-${index + 1}`}>
+              <AccordionItem key={index} className="py-2" value={`item-${index + 1}`}>
                 <AccordionTrigger className="text-2xl font-bold text-primary">
                   {item.title}
                 </AccordionTrigger>
