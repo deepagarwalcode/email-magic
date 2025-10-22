@@ -57,7 +57,7 @@ const ExpenseSection = () => {
             <div className="p-8 md:max-w-xl bg-gray-50/20 rounded-xl shadow-inner shadow-gray-200 border border-gray-100">
               <div className="text-4xl font-bold text-red-500 mb-3">82%</div>
               <p className="font-medium flex items-center gap-2">
-                of people say they've missed an important message{" "}
+                of people say they&apos;ve missed an important message{" "}
                 <Link
                   href={""}
                   className="text-primary underline flex items-center"
@@ -72,8 +72,8 @@ const ExpenseSection = () => {
             </div>
             <div className="flex-1 flex items-center">
               <div className="space-y-6 text-xl font-medium">
-                <p className="underline decoration-2 decoration-red-500">You're not just losing deals.</p>
-                <p className="underline decoration-2 decoration-red-500 font-bold">You're bleeding trust and revenue—one email at a time.</p>
+                <p className="underline decoration-2 decoration-red-500">You&apos;re not just losing deals.</p>
+                <p className="underline decoration-2 decoration-red-500 font-bold">You&apos;re bleeding trust and revenue—one email at a time.</p>
               </div>
             </div>
           </div>
